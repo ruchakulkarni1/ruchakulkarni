@@ -44,15 +44,6 @@
 .educationDiv {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 20px;
-    padding: 20px;
-    background-color: rgb(223, 223, 223);
-    box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
-}
-
-.coursework, .universities {
-    margin: 20px;
-    padding: 20px;
 }
 
 /*.listItem {
@@ -73,15 +64,13 @@
 .skillsDiv {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 20px;
+}
+
+.coursework, .universities, .technicalSkills, .professionalSkills {
+    margin: 20px;    
     padding: 20px;
     background-color: rgb(223, 223, 223);
     box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
-}
-
-.technicalSkills, .professionalSkills {
-    margin: 20px;    
-    padding: 20px;
 }
 
 .titleSkills {
