@@ -40,3 +40,51 @@
         background-color: black;
     }
 }
+
+.educationDiv {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(223, 223, 223);
+    box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+}
+
+.coursework, .universities {
+    margin: 20px;
+    padding: 20px;
+}
+
+/*.listItem {
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+}*/
+
+.uniName {
+    margin-bottom: 10px;
+}
+
+.degree {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.skillsDiv {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(223, 223, 223);
+    box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+}
+
+.technicalSkills, .professionalSkills {
+    margin: 20px;    
+    padding: 20px;
+}
+
+.titleSkills {
+    margin-bottom: 0px;
+}
+
