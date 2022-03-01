@@ -23,8 +23,8 @@ export default function Home() {
          software developer and technology analyst in Information Technology 
          industry for 6 years. My objective is to utilize my knowledge 
          and skills to develop software solutions, build my career with accomplishments
-         and be valuable for society.<br/><br/>Please look around my website and if you think that 
-         my skills can add value to your company please feel free to reach out!</p>
+         and be valuable for society.<br/><br/>Feel free to look around my website and if you think that 
+         my skills can add value to your company then please reach out!</p>
          </div>
       </div>
     </div>
