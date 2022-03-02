@@ -1,0 +1,63 @@
+.contactDiv {
+    margin: 20px;
+    padding: 20px;
+}
+
+.contactForm {
+    background: linear-gradient(280deg, white, rgb(223, 223, 223) 100%);
+    box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+}
+
+.form-control {
+    display: block;
+    width: 90%;
+    border: 1px solid #ced4da;
+    padding: 10px;
+    margin: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-family: inherit;
+}
+
+.sendbutton, .resetbutton {
+    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 40px;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+}
+
+.sendbutton {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.formTitle{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.other {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.connectName {
+    float: left;
+}
+.connectImage {
+    height: 30px;
+    margin: 10px;
+    width: 30px;
+}
+
+.otherTitle {
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+}

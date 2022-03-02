@@ -4,6 +4,9 @@ import { BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 import {useEffect, useState } from "react";
 import Home from "./Tabs/home";
 import About from "./Tabs/about";
+import Work from "./Tabs/work"
+import Project from './Tabs/projects';
+import Contact from './Tabs/contact';
 
 function App() {
   return (
@@ -43,6 +46,21 @@ function App() {
   <Route path="/about">
           <div>
             <About></About>
+          </div>
+  </Route>
+  <Route path="/work">
+          <div>
+            <Work></Work>
+          </div>
+  </Route>
+  <Route path="/projects">
+          <div>
+            <Project></Project>
+          </div>
+  </Route>
+  <Route path="/contact">
+          <div>
+            <Contact></Contact>
           </div>
   </Route>
   </Switch>
