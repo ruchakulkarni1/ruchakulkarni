@@ -4,14 +4,18 @@ export default function Work() {
    return(
     <div>
         <div class="workDiv">
-            <div class="workText">
-                <p class="workTextP">
-                    After completing Bachelors degree in engineering with major 
+            <div class="infyImage">
+            <img class="infyPic" src="./infy.png" alt="Infosys"></img>
+            </div>
+            <div class="infyPost">
+                <h1 class="post">Technology Analyst</h1>
+                <h3 class="duration">February 2015 to September 2020</h3>
+                <p class="workText"> After completing Bachelors degree in engineering with major 
                     Computer Science I worked at Infosys Limited from February 2015
                     to September 2020. I joined as a trainee and left Infosys to 
                     persue Masters at Portland State University. While working at 
-                    Infosys I got an opportunity to work on different projects.
-                </p>
+                    Infosys I got an opportunity to work on different projects. I listed
+                    here few projects I worked on.</p>
             </div>
         </div>
         <div class="workDetails">
