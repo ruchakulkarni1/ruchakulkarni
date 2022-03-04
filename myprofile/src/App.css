@@ -93,3 +93,25 @@
 a {
   text-decoration: none;
 }
+
+.other {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.connectName {
+  float: left;
+}
+.connectImage {
+  height: 30px;
+  margin: 10px;
+  width: 30px;
+}
+
+.otherTitle {
+  width: fit-content;
+  font-family: 'Times New Roman', Times, serif;
+}

@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {useEffect, useState } from "react";
 import Home from "./Tabs/home";
 import About from "./Tabs/about";
@@ -66,6 +67,15 @@ function App() {
   </Switch>
   </div>
   </Router>
+  <footer class="footerClass">
+  <div class="other">
+                <p class="otherTitle">© 2022 Rucha Kulkarni</p>  
+                <div class="social">
+                <a href="https://www.linkedin.com/in/rucha-kulkarni-0204ab84/"><img src="./linkedin.png" alt="linkedIn link" class="connectImage"></img></a>
+                <a href="https://github.com/ruchakulkarni1"><img src="./github.png" alt="github link" class="connectImage"></img></a>
+                </div>
+             </div>
+    </footer>
   </div>
   );
 }
