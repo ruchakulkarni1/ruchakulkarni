@@ -39,8 +39,7 @@
 
 .navbar{
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: space-around;
   padding: 10px 10px; 
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
@@ -49,6 +48,7 @@
 
 .navbar-brand {
   color: rgb(223, 223, 223);
+  width: 55%;
 }
 
 .nav-link{
@@ -82,8 +82,8 @@
   border-radius: .25rem;
 }
 
-.nav-item {
-  display: inline;
+.nav-item, .links {
+  text-align: center;
 }
 
 .navbar-nav {

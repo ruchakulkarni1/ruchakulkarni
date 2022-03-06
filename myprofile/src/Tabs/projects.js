@@ -5,12 +5,11 @@ export default function Project() {
     <div>
         <div class="projectDiv">
             <div class="psuPost">
-                <p class="psuText"> After completing Bachelors degree in engineering with major 
-                    Computer Science I worked at Infosys Limited from February 2015
-                    to September 2020. I joined as a trainee and left Infosys to 
-                    persue Masters at Portland State University. While working at 
-                    Infosys I got an opportunity to work on different projects. I listed
-                    here few projects I worked on.</p>
+                <h1 class="post">Master of Science</h1>
+                <h3 class="duration">January 2021 - June 2022</h3>
+                <p class="psuText"> I got a great opportunity to study different courses
+                at Portland State University. I worked on different and innovative projects
+                during my graduate study.</p>
             </div>
             <div class="psuImage">
             <img class="psuPic" src="./psu.jpg" alt="PSU"></img>

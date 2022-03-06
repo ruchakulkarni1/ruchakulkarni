@@ -9,7 +9,7 @@ export default function Work() {
             </div>
             <div class="infyPost">
                 <h1 class="post">Technology Analyst</h1>
-                <h3 class="duration">February 2015 to September 2020</h3>
+                <h3 class="duration">February 2015 - September 2020</h3>
                 <p class="workText"> After completing Bachelors degree in engineering with major 
                     Computer Science I worked at Infosys Limited from February 2015
                     to September 2020. I joined as a trainee and left Infosys to 
