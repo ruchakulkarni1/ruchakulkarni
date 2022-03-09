@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c00852d5.css",
-    "main.js": "/static/js/main.93a86371.js",
-    "static/js/787.a6e0be23.chunk.js": "/static/js/787.a6e0be23.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.c00852d5.css.map": "/static/css/main.c00852d5.css.map",
-    "main.93a86371.js.map": "/static/js/main.93a86371.js.map",
-    "787.a6e0be23.chunk.js.map": "/static/js/787.a6e0be23.chunk.js.map"
+    "main.css": "/ruchakulkarni/static/css/main.c00852d5.css",
+    "main.js": "/ruchakulkarni/static/js/main.de21d4e0.js",
+    "static/js/787.a6e0be23.chunk.js": "/ruchakulkarni/static/js/787.a6e0be23.chunk.js",
+    "static/media/logo.svg": "/ruchakulkarni/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ruchakulkarni/index.html",
+    "main.c00852d5.css.map": "/ruchakulkarni/static/css/main.c00852d5.css.map",
+    "main.de21d4e0.js.map": "/ruchakulkarni/static/js/main.de21d4e0.js.map",
+    "787.a6e0be23.chunk.js.map": "/ruchakulkarni/static/js/787.a6e0be23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c00852d5.css",
-    "static/js/main.93a86371.js"
+    "static/js/main.de21d4e0.js"
   ]
 }
